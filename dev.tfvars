@@ -10,7 +10,7 @@ private_subnet = ["10.0.4.0/24", "10.0.5.0/24", "10.0.6.0/24"]
 # EKS
 is_eks_cluster_enabled  = true
 cluster_version         = "1.34"
-cluster_name            = "my-cluster"
+cluster_name            = "my-EKS-cluster"
 endpoint_private_access = true
 endpoint_public_access  = true
 authentication_mode     = "API_AND_CONFIG_MAP"
