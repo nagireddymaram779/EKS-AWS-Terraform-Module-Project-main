@@ -1,7 +1,4 @@
 # EKS-AWS-Terraform-Module-Project
-
-[![Channel Link](https://github.com/harishnshetty/image-data-project/blob/f4cbae3f8429073cb96264ef402ecbe511db6bc4/2eks.JPG)](https://youtu.be/9sTzMx86vwE)
-
 ## 1. Terraform Installation
 
 ```bash
